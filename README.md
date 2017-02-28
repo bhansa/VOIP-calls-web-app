@@ -1,9 +1,6 @@
 ## VOIP
 Voice over Internet Protocol (Voice over IP, VoIP and IP telephony) is a methodology and group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol (IP) networks, such as the Internet.
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhansa/VOIP-calls-web-app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
